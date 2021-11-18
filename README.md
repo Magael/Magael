@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I decided to change carrers and decided to study web development because is something i always found fascinanting.
+I decided to change careers and decided to study web development because is something i always found fascinating.
 
 
 - 🌱 I’m currently learning code with BECODE
