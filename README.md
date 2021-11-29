@@ -8,5 +8,5 @@ I decided to change careers and decided to study web development because is some
 - 📫 How to reach me: 
   * elsa.magalhaes@gmail.com
   * [Linkedin](https://www.linkedin.com/in/elsammagalhaes)
-  * [My portfolio](https://185.157.247.65)
+  * [My portfolio](http://185.157.247.65)
                        
